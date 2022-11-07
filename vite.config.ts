@@ -22,6 +22,8 @@ export default defineConfig({
     },
   },
 
+  base: '/web3vuedapp_pay2/',
+
   plugins: [
     Preview(),
 
