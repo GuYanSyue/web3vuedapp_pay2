@@ -151,7 +151,7 @@
   "src/artifacts/contracts/newPayment.sol/newPayment.json": [],
   "src/store/crypto.ts": [],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/styles.css?vue&type=style&index=0&src=e6eeae91&scoped=e6eeae91&lang.scss": [],
+  "src/components/styles.css?vue&type=style&index=0&src=81513e7c&scoped=81513e7c&lang.scss": [],
   "src/pages/index.vue": [],
   "../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
   "node_modules/@unocss/reset/tailwind.css": [],
@@ -160,48 +160,48 @@
   "src/components/reset.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.556012ff.js-unocss-hash.css": [],
+  "assets/app.f4b9cbd6.js-unocss-hash.css": [],
   "../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/web3vuedapp_pay2/assets/virtual_pwa-register.933515d9.js"
+    "/web3vuedapp_pay2/assets/virtual_pwa-register.1e0c5f82.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_pay2/assets/404.0aacc4b8.js"
+    "/web3vuedapp_pay2/assets/404.427fad7f.js"
   ],
   "src/layouts/404.vue": [
-    "/web3vuedapp_pay2/assets/404.0aacc4b8.js"
+    "/web3vuedapp_pay2/assets/404.427fad7f.js"
   ],
   "src/layouts/home.vue": [
-    "/web3vuedapp_pay2/assets/home.a4ca903a.js"
+    "/web3vuedapp_pay2/assets/home.39e9d2e8.js"
   ],
   "src/pages/README.md": [
-    "/web3vuedapp_pay2/assets/README.dbbe9cc0.js"
+    "/web3vuedapp_pay2/assets/README.25e367da.js"
   ],
   "src/pages/Buyingcart.vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_pay2/assets/Buyingcart.b5c73d98.js"
+    "/web3vuedapp_pay2/assets/Buyingcart.93affd95.js"
   ],
   "src/pages/Buyingcart.vue": [
-    "/web3vuedapp_pay2/assets/Buyingcart.b5c73d98.js"
+    "/web3vuedapp_pay2/assets/Buyingcart.93affd95.js"
   ],
   "../../../../@vite-plugin-pages/route-block": [
     "/web3vuedapp_pay2/assets/route-block.023af118.js"
   ],
   "src/pages/about.md": [
-    "/web3vuedapp_pay2/assets/about.5caa5789.js"
+    "/web3vuedapp_pay2/assets/about.6c173e6b.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_pay2/assets/_...all_.7d081eb6.js"
+    "/web3vuedapp_pay2/assets/_...all_.c71bf579.js"
   ],
   "src/pages/[...all].vue": [
-    "/web3vuedapp_pay2/assets/_...all_.7d081eb6.js"
+    "/web3vuedapp_pay2/assets/_...all_.c71bf579.js"
   ],
   "src/store/user.ts": [
-    "/web3vuedapp_pay2/assets/_name_.45e40b9e.js"
+    "/web3vuedapp_pay2/assets/_name_.d918fa4e.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/web3vuedapp_pay2/assets/_name_.45e40b9e.js"
+    "/web3vuedapp_pay2/assets/_name_.d918fa4e.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/web3vuedapp_pay2/assets/_name_.45e40b9e.js"
+    "/web3vuedapp_pay2/assets/_name_.d918fa4e.js"
   ],
   "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/web3vuedapp_pay2/assets/workbox-window.prod.es5.d2780aeb.js"
